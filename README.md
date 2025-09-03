@@ -3,12 +3,12 @@ Utkarsh Kumar Dabgarwal🙋
 <!--
 **karshhkr/karshhkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: Open Source Projects
 
 - 🔭 I’m currently working on ... Building Java Backend Application
 - 🌱 I’m currently learning ... Java-based backend application built using Spring Boot for developing robust and scalable REST APIs
                                       Core Java, Adv Java, Spring Boot,Microservices,Hibernate,Postgresql,REST API's
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... Open Source Projects
 - 🤔 I’m looking for help with ... Collaboration with Open Source Projects
 - 💬 Ask me about ...Java Development (Core Java, Collections, Multithreading)
                       Backend Development with Spring Boot
