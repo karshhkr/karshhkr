@@ -21,7 +21,13 @@ Here are some ideas to get you started: Open Source Projects![Uploading ProjectC
                       System Design Basics
                       Problem Solving & DSA
                       Version Control (Git, GitHub)
-- 📫 How to reach me: ... 📩:-Utkarshkumardabgarwal@gmail.com/ 🤳:-+91 7408578131
+                      
+- 📫 How to reach me: ... 📩:-Utkarshkumardabgarwal@gmail.com/
+🤳:-+91 7408578131
+💼 GitHub: https://github.com/karshhkr?tab=repositories
+💬 LinkedIn: https://www.linkedin.com/in/utkarsh-kumar-dabgarwal-9001571b1/
+
+
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+
 -->
