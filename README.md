@@ -14,9 +14,9 @@ Email Me 👉 ✉️ **utkarshkumardabgarwal@gmail.com** For Collaboration/Proje
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div>-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karshhkr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshkumardabgarwal-9001571b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarshkumardabgarwal@gmail.com) 
@@ -40,4 +40,4 @@ Email Me 👉 ✉️ **utkarshkumardabgarwal@gmail.com** For Collaboration/Proje
 ---
 [![](https://visitcount.itsvg.in/api?id=karshhkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<
