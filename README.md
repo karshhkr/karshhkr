@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Utkarsh Kumar Dabgarwal
-**A passionate Java Developer || Java Backend Developer
+# 💫 Hi👋, I'm Utkarsh Kumar Dabgarwal
+A passionate Java Developer || Java Backend Developer
 
 Email Me 👉 ✉️ **utkarshkumardabgarwal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
