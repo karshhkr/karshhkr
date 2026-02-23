@@ -2,16 +2,31 @@
 A passionate Java Developer || Java Backend Developer
 
 Email Me 👉 ✉️ **utkarshkumardabgarwal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# Hi, I'm Utkarsh Kumar Dabgarwal 👋
+Backend Developer | Java | Spring Boot | REST APIs
 
-- 🔭 **I’m currently working on:** SpringBoot Project
-- 🌱 **I’m currently learning:** SpringBoot,ci/cd Pipelines
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Utkarsh Kumar Dabgarwal
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me and #logicoversleep
+I am a 2025 Computer Science graduate focused on building secure and scalable backend systems using Java and Spring Boot. I enjoy designing REST APIs, implementing authentication mechanisms, and working with relational databases.
 
+📩 Email: utkarshkumardabgarwal@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/utkarshkumardabgarwal-9001571b1/
+
+---
+
+## 🚀 What I'm Working On
+- Building secure and scalable backend applications using Spring Boot.
+- Improving API design and backend architecture practices.
+- Exploring CI/CD pipelines for production-ready deployments.
+
+## 🤝 Open To
+- Backend collaboration projects
+- Java & Spring Boot based systems
+- API-driven product development
+
+## 💬 Ask Me About
+Java backend development, Spring Security, REST APIs, database design, and authentication systems.
+
+## ⚡ About Me
+I prefer clean architecture, logical problem-solving, and writing maintainable backend code.
 <!-- Snake Game Repo View -->
 
 <!--<div align="center">
