@@ -22,7 +22,7 @@
 ║  Role   : Java Backend Developer    ║
 ║  Edu    : B.Tech CSE — 2025         ║
 ║  Base   : India  🇮🇳                 ║
-║  Status : Available for Hire ✅      ║
+║  Status : Available for Hire        ║
 ╚══════════════════════════════════════╝
 ```
 
