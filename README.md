@@ -21,7 +21,7 @@
 ║  Name   : Utkarsh Kumar Dabgarwal   ║
 ║  Role   : Java Backend Developer    ║
 ║  Edu    : B.Tech CSE — 2025         ║
-║  Base   : India  🇮🇳                 ║
+║  Base   : India                     ║
 ║  Status : Available for Hire        ║
 ╚══════════════════════════════════════╝
 ```
