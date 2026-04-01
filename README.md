@@ -119,14 +119,15 @@ PID    PROCESS                          CPU    STATUS
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=karshhkr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&include_all_commits=true&count_private=true&custom_title=commit+log"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshhkr&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&layout=compact&langs_count=8&custom_title=lang+breakdown"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=karshhkr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&include_all_commits=true&count_private=true&custom_title=commit+log"/>  
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshhkr&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&layout=compact&langs_count=8&custom_title=lang+breakdown"/>  
 
 <br/><br/>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=karshhkr&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=00FF41&dates=6e7681"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=karshhkr&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=00FF41&dates=6e7681"/>  
 
 </div>
+
 
 ---
 
